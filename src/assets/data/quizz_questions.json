@@ -1,55 +1,67 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Descubra qual seu chalé no acampamento 'Half Blood!'",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Na imensidão do mundo, o que mais te fascina?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Contemplar relâmpagos e tempestades no horizonte", "alias":"Zeus"},
+        {"id": 2, "name":"Observar as profundezas do oceano em sua vastidão", "alias":"Poseidon"},
+        {"id": 3, "name":"Explorar locais sombrios e misteriosos", "alias":"Hades"},
+        {"id": 4, "name":"Apreciar a sabedoria e a inteligência", "alias":"Atena"},
+        {"id": 5, "name":"Admiração pela velocidade e agilidade", "alias":"Hermes"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Em qual ambiente você se sente mais conectado?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Cumes de montanhas majestosas", "alias":"Zeus"},
+        {"id": 2, "name":"Praias banhadas pelo sol ", "alias":"Poseidon"},
+        {"id": 3, "name":"Lugares enigmáticos e secretos", "alias":"Hades"},
+        {"id": 4, "name":"Bibliotecas ou centros de aprendizado", "alias":"Atena"},
+        {"id": 5, "name":"Cidades movimentadas e cheias de vida", "alias":"Hermes"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Se pudesse escolher um poder especial, qual seria?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Comandar os segredos dos mortos", "alias":"Hades"},
+        {"id": 2, "name":"Controlar raios e tempestades", "alias":"Zeus"},
+        {"id": 3, "name":"Habilidade de cura e luz", "alias":"Atena"},
+        {"id": 4, "name":"Manipular a água em todas as suas formas", "alias":"Poseidon"},
+        {"id": 5, "name":"Habilidade de se comunicar com qualquer pessoa", "alias":"Hermes"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "O que você valoriza mais em si mesmo?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Agilidade e destreza", "alias":"Hermes"},
+        {"id": 2, "name":"Compaixão e empatia", "alias":"Poseidon"},
+        {"id": 3, "name":"Habilidade artística e musical", "alias":"Atena"},
+        {"id": 4, "name":"Liderança incontestável", "alias":"Zeus"},
+        {"id": 5, "name":"Perspicácia e astúcia", "alias":"Hades"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Se pudesse relaxar em um lugar, qual escolheria?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Em uma gruta, cercado por mistérios", "alias":"Hades"},
+        {"id": 2, "name":"Em uma sala repleta de livros ", "alias":"Atena"},
+        {"id": 3, "name":"À beira-mar, ouvindo o suave som das ondas", "alias":"Poseidon"},
+        {"id": 4, "name":"Em um parque movimentado, observando o vai e vem das pessoas", "alias":"Hermes"},
+        {"id": 5, "name":"No topo de uma montanha majestosa ", "alias":"Zeus"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "Zeus": "Você muito provavelmente é filho de Zeus!",
+    "Atena": "Você muito provavelmente é filho de Atena!",
+    "Hades": "Você muito provavelmente é filho de Hades!",
+    "Hermes": "Você muito provavelmente é filho de Hermes!",
+    "Poseidon": "Você muito provavelmente é filho de Poseidon!"
   }
 }
